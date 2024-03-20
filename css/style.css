@@ -366,7 +366,7 @@ img {
 .img-area {
     width: 500px;
     height: 500px;
-    border-radius: 30%;
+    border-radius: 20%;
     overflow: hidden;
     border: 3px solid rgb(43, 41, 41);
     display: inline-block;
